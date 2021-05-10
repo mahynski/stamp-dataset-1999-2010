@@ -1,0 +1,845 @@
+GUALIQUOTID,GUSAMPLEID,COLONY_NAME,GEOGRAPHIC_AREA_STAMP,COMMON_NAME,SPECIES,LATITUDE,LONGITUDE,COLLECTION_YEAR,TYPE_OF_ANALYSIS
+ACU100812A,ACU100163,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Total mercury
+ACU103090A,ACU100163,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Organics
+ACU100824A,ACU100164,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Total mercury
+ACU103091A,ACU100164,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Organics
+ACU100835A,ACU100165,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Total mercury
+ACU103092A,ACU100165,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Organics
+ACU100858A,ACU100167,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Total mercury
+ACU103093A,ACU100167,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Organics
+ACU100881A,ACU100169,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Total mercury
+ACU103094A,ACU100169,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2008,Organics
+ACU100903A,ACU100171,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Total mercury
+ACU103095A,ACU100171,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Organics
+ACU100914A,ACU100172,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Total mercury
+ACU103096A,ACU100172,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Organics
+ACU100925A,ACU100173,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Total mercury
+ACU103097A,ACU100173,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Organics
+ACU100936A,ACU100174,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Total mercury
+ACU103098A,ACU100174,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Organics
+ACU100945A,ACU100175,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Total mercury
+ACU103099A,ACU100175,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2008,Organics
+ACU100984A,ACU100179,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Total mercury
+ACU103100A,ACU100179,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Organics
+ACU101046A,ACU100185,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Total mercury
+ACU103101A,ACU100185,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Organics
+ACU101058A,ACU100186,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Total mercury
+ACU103102A,ACU100186,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Organics
+ACU101092A,ACU100189,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Total mercury
+ACU103103A,ACU100189,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Organics
+ACU101105A,ACU100190,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Total mercury
+ACU103104A,ACU100190,Little Diomede Isl.,Bering Strait,Thick-billed murre,Uria lomvia,65.753,-168.922,2008,Organics
+ACU101145A,ACU100194,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Total mercury
+ACU103105A,ACU100194,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Organics
+ACU101158A,ACU100195,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Total mercury
+ACU103106A,ACU100195,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Organics
+ACU101168A,ACU100196,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Total mercury
+ACU103107A,ACU100196,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Organics
+ACU101180A,ACU100197,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Total mercury
+ACU103108A,ACU100197,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Organics
+ACU101259A,ACU100204,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Total mercury
+ACU103109A,ACU100204,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.66,-170.225,2008,Organics
+ACU101294A,ACU100207,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Total mercury
+ACU103110A,ACU100207,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Organics
+ACU101307A,ACU100208,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Total mercury
+ACU103111A,ACU100208,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Organics
+ACU101333A,ACU100210,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Total mercury
+ACU103112A,ACU100210,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Organics
+ACU101370A,ACU100213,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Total mercury
+ACU103113A,ACU100213,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Organics
+ACU101405A,ACU100216,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Total mercury
+ACU103114A,ACU100216,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2008,Organics
+ACU101459A,ACU100221,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Total mercury
+ACU103115A,ACU100221,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Organics
+ACU101492A,ACU100224,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Total mercury
+ACU103116A,ACU100224,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Organics
+ACU101557A,ACU100230,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Total mercury
+ACU103117A,ACU100230,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Organics
+ACU101579A,ACU100232,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Total mercury
+ACU103118A,ACU100232,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Organics
+ACU101600A,ACU100234,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Total mercury
+ACU103119A,ACU100234,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2008,Organics
+ACU101622A,ACU100236,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Total mercury
+ACU103120A,ACU100236,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Organics
+ACU101646A,ACU100238,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Total mercury
+ACU103121A,ACU100238,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Organics
+ACU101706A,ACU100243,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Total mercury
+ACU103122A,ACU100243,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Organics
+ACU101765A,ACU100248,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Total mercury
+ACU103123A,ACU100248,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Organics
+ACU101778A,ACU100249,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Total mercury
+ACU103124A,ACU100249,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2008,Organics
+ACU101791A,ACU100250,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Total mercury
+ACU103125A,ACU100250,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Organics
+ACU101892A,ACU100264,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Total mercury
+ACU103126A,ACU100264,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Organics
+ACU102771A,ACU100266,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Total mercury
+ACU103127A,ACU100266,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Organics
+ACU101935A,ACU100267,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Total mercury
+ACU103128A,ACU100267,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Organics
+ACU101945A,ACU100268,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Total mercury
+ACU103129A,ACU100268,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2008,Organics
+ACU101985A,ACU100272,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Total mercury
+ACU103130A,ACU100272,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Organics
+ACU101996A,ACU100273,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Total mercury
+ACU103131A,ACU100273,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Organics
+ACU102032A,ACU100276,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Total mercury
+ACU103132A,ACU100276,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Organics
+ACU102043A,ACU100277,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Total mercury
+ACU103133A,ACU100277,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Organics
+ACU102054A,ACU100278,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Total mercury
+ACU103134A,ACU100278,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2008,Organics
+ACU102095A,ACU100282,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Total mercury
+ACU103135A,ACU100282,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Organics
+ACU102116A,ACU100284,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Total mercury
+ACU103136A,ACU100284,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Organics
+ACU102145A,ACU100287,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Total mercury
+ACU103137A,ACU100287,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Organics
+ACU102170A,ACU100290,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Total mercury
+ACU103138A,ACU100290,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Organics
+ACU102181A,ACU100291,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Total mercury
+ACU103139A,ACU100291,Kukpuk River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,68.381,-166.326,2008,Organics
+ACU102342A,ACU100342,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Total mercury
+ACU103140A,ACU100342,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Organics
+ACU102363A,ACU100344,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Total mercury
+ACU103141A,ACU100344,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Organics
+ACU102374A,ACU100345,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Total mercury
+ACU103142A,ACU100345,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Organics
+ACU102385A,ACU100346,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Total mercury
+ACU103143A,ACU100346,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Organics
+ACU102396A,ACU100347,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Total mercury
+ACU103144A,ACU100347,Safety Sound,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.487,-164.765,2008,Organics
+ACU102406A,ACU100348,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Total mercury
+ACU103145A,ACU100348,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Organics
+ACU102426A,ACU100351,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Total mercury
+ACU103146A,ACU100351,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Organics
+ACU102442A,ACU100354,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Total mercury
+ACU103147A,ACU100354,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Organics
+ACU102462A,ACU100356,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Total mercury
+ACU103148A,ACU100356,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Organics
+ACU102473A,ACU100357,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Total mercury
+ACU103149A,ACU100357,Cape Darby,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.333,-162.769,2008,Organics
+ACU102496A,ACU100361,Bluff Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.567,-163.716,2008,Total mercury
+ACU103150A,ACU100361,Bluff Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.567,-163.716,2008,Organics
+ACU102506A,ACU100362,Bluff Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.567,-163.716,2008,Total mercury
+ACU103151A,ACU100362,Bluff Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.567,-163.716,2008,Organics
+ACU102523A,ACU100365,Bluff Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.567,-163.716,2008,Total mercury
+ACU103152A,ACU100365,Bluff Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.567,-163.716,2008,Organics
+ACU102534A,ACU100366,Bluff Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.567,-163.716,2008,Total mercury
+ACU103153A,ACU100366,Bluff Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.567,-163.716,2008,Organics
+ACU102545A,ACU100367,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Total mercury
+ACU103154A,ACU100367,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Organics
+ACU102567A,ACU100370,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Total mercury
+ACU103155A,ACU100370,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Organics
+ACU102578A,ACU100371,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Total mercury
+ACU103156A,ACU100371,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Organics
+ACU102608A,ACU100374,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Total mercury
+ACU103157A,ACU100374,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Organics
+ACU102621A,ACU100375,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Total mercury
+ACU103158A,ACU100375,Golovin Bay,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.453,-162.877,2008,Organics
+ACU102640A,ACU100378,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2008,Total mercury
+ACU103159A,ACU100378,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2008,Organics
+ACU102650A,ACU100379,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2008,Total mercury
+ACU103160A,ACU100379,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2008,Organics
+ACU102660A,ACU100380,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2008,Total mercury
+ACU103161A,ACU100380,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2008,Organics
+ACU102670A,ACU100381,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2008,Total mercury
+ACU103162A,ACU100381,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2008,Organics
+ACU102686A,ACU100384,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.111,-166.076,2008,Total mercury
+ACU103163A,ACU100384,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.111,-166.076,2008,Organics
+ACU102719A,ACU100388,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.111,-166.076,2008,Total mercury
+ACU103164A,ACU100388,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.111,-166.076,2008,Organics
+ACU102738A,ACU100391,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.089,-165.76,2008,Total mercury
+ACU103165A,ACU100391,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.089,-165.76,2008,Organics
+ACU102749A,ACU100392,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.089,-165.76,2008,Total mercury
+ACU103166A,ACU100392,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.089,-165.76,2008,Organics
+ACU102760A,ACU100393,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.089,-165.76,2008,Total mercury
+ACU103167A,ACU100393,Shismaref,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.089,-165.76,2008,Organics
+ACU103253A,ACU100456,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Total mercury
+ACU103258A,ACU100456,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Organics
+ACU103263A,ACU100457,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Total mercury
+ACU103269A,ACU100457,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Organics
+ACU103275A,ACU100458,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Total mercury
+ACU103280A,ACU100458,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Organics
+ACU103285A,ACU100459,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Total mercury
+ACU103290A,ACU100459,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Organics
+ACU103295A,ACU100460,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Total mercury
+ACU103300A,ACU100460,Stuart Isl.,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,63.559,-162.541,2009,Organics
+ACU103305A,ACU100461,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Total mercury
+ACU103311A,ACU100461,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Organics
+ACU103332A,ACU100463,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Total mercury
+ACU103338A,ACU100463,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Organics
+ACU103344A,ACU100464,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Total mercury
+ACU103351A,ACU100464,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Organics
+ACU103356A,ACU100465,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Total mercury
+ACU103363A,ACU100465,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Organics
+ACU103369A,ACU100466,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Total mercury
+ACU103376A,ACU100466,Shaktoolik,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,64.265,-161.014,2009,Organics
+ACU103416A,ACU100470,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Total mercury
+ACU103423A,ACU100470,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Organics
+ACU103440A,ACU100472,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Total mercury
+ACU103446A,ACU100472,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Organics
+ACU103452A,ACU100473,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Total mercury
+ACU103458A,ACU100473,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Organics
+ACU103494A,ACU100476,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Total mercury
+ACU103500A,ACU100476,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Organics
+ACU103518A,ACU100478,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Total mercury
+ACU103524A,ACU100478,Brevig Mission KTS,"Bering Sea, Norton Sound",Glaucous gull,Larus hyperboreus,65.362,-166.74,2009,Organics
+ACU103540A,ACU100480,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Total mercury
+ACU103546A,ACU100480,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Organics
+ACU103573A,ACU100483,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Total mercury
+ACU103579A,ACU100483,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Organics
+ACU103595A,ACU100485,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Total mercury
+ACU103601A,ACU100485,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Organics
+ACU103606A,ACU100486,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Total mercury
+ACU103612A,ACU100486,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Organics
+ACU103645A,ACU100490,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Total mercury
+ACU103651A,ACU100490,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2009,Organics
+ACU104462A,ACU100548,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Total mercury
+ACU104468A,ACU100548,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Organics
+ACU104473A,ACU100549,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Total mercury
+ACU104477A,ACU100549,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Organics
+ACU104492A,ACU100551,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Total mercury
+ACU104496A,ACU100551,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Organics
+ACU104501A,ACU100552,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Total mercury
+ACU104507A,ACU100552,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Organics
+ACU104523A,ACU100554,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Total mercury
+ACU104528A,ACU100554,Cape Lisburne,Chukchi Sea,Unknown murre,Uria spp.,68.882,-166.203,2009,Organics
+ACU104640A,ACU100624,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Total mercury
+ACU104646A,ACU100624,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Organics
+ACU104674A,ACU100628,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Total mercury
+ACU104680A,ACU100628,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Organics
+ACU104731A,ACU100635,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Organics
+ACU104725A,ACU100635,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Total mercury
+ACU104736A,ACU100637,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Total mercury
+ACU104742A,ACU100637,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Organics
+ACU104773A,ACU100642,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Organics
+ACU104768A,ACU100642,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2009,Total mercury
+ACU104778A,ACU100646,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Total mercury
+ACU104784A,ACU100646,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Organics
+ACU104789A,ACU100648,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Total mercury
+ACU104795A,ACU100648,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Organics
+ACU104801A,ACU100649,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Total mercury
+ACU104806A,ACU100649,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Organics
+ACU104822A,ACU100652,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Total mercury
+ACU104827A,ACU100652,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Organics
+ACU104832A,ACU100653,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Total mercury
+ACU104837A,ACU100653,Aiktak Isl.,Aleutian Islands,Glaucous-winged gull,Larus glaucescens,54.183,-164.827,2009,Organics
+ACU104842A,ACU100654,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Total mercury
+ACU104848A,ACU100654,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Organics
+ACU104853A,ACU100659,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Total mercury
+ACU104859A,ACU100659,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Organics
+ACU104865A,ACU100661,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Total mercury
+ACU104871A,ACU100661,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Organics
+ACU104887A,ACU100663,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Total mercury
+ACU104893A,ACU100663,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Organics
+ACU104917A,ACU100667,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Total mercury
+ACU104923A,ACU100667,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2009,Organics
+ACU104931A,ACU100668,St. Paul Isl.,Bering Sea,Common murre,Uria aalge,57.138,-170.292,2010,Organics
+ACU104941A,ACU100669,St. Paul Isl.,Bering Sea,Common murre,Uria aalge,57.138,-170.292,2010,Organics
+ACU104972A,ACU100673,St. Paul Isl.,Bering Sea,Common murre,Uria aalge,57.147,-170.338,2010,Organics
+ACU104992A,ACU100676,St. Paul Isl.,Bering Sea,Common murre,Uria aalge,57.138,-170.292,2010,Organics
+ACU105002A,ACU100675,St. Paul Isl.,Bering Sea,Common murre,Uria aalge,57.138,-170.292,2010,Organics
+ACU105023A,ACU100678,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2010,Organics
+ACU105045A,ACU100682,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2010,Organics
+ACU105066A,ACU100684,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2010,Organics
+ACU105076A,ACU100685,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2010,Organics
+ACU105096A,ACU100687,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2010,Organics
+ACU105128A,ACU100692,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2010,Organics
+ACU105148A,ACU100698,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2010,Organics
+ACU105178A,ACU100701,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2010,Organics
+ACU105188A,ACU100702,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2010,Organics
+ACU105209A,ACU100704,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2010,Organics
+ACU105229A,ACU100707,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.604,-169.771,2010,Organics
+ACU105239A,ACU100708,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.604,-169.771,2010,Organics
+ACU105259A,ACU100711,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.604,-169.771,2010,Organics
+ACU105269A,ACU100712,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.604,-169.771,2010,Organics
+ACU105301A,ACU100717,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.604,-169.771,2010,Organics
+ACU105321A,ACU100720,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2010,Organics
+ACU105332A,ACU100719,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2010,Organics
+ACU105342A,ACU100721,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2010,Organics
+ACU105362A,ACU100723,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2010,Organics
+ACU105372A,ACU100724,St. Paul Isl.,Bering Sea,Thick-billed murre,Uria lomvia,57.147,-170.338,2010,Organics
+ACU105470A,ACU100731,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2010,Organics
+ACU105428A,ACU100735,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2010,Organics
+ACU105438A,ACU100736,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2010,Organics
+ACU105449A,ACU100737,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2010,Organics
+ACU105460A,ACU100738,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2010,Organics
+ACU105479A,ACU100743,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2010,Organics
+ACU105491A,ACU100744,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2010,Organics
+ACU105501A,ACU100747,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2010,Organics
+ACU105506A,ACU100749,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2010,Organics
+ACU105532A,ACU100751,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2010,Organics
+ACU105949A,ACU100808,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Perfluorinated alkyl acids (
+ACU105957A,ACU100808,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU105973A,ACU100811,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU105980A,ACU100812,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Perfluorinated alkyl acids (
+ACU105988A,ACU100812,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106004A,ACU100813,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106020A,ACU100814,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106028A,ACU100815,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Perfluorinated alkyl acids (
+ACU106036A,ACU100815,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106054A,ACU100816,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106068A,ACU100817,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106084A,ACU100819,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106092A,ACU100820,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Perfluorinated alkyl acids (
+ACU106100A,ACU100820,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106108A,ACU100821,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Perfluorinated alkyl acids (
+ACU106116A,ACU100821,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106132A,ACU100822,"Barking Sands PMRF, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.042,-159.785,2010,Organics
+ACU106149A,ACU100823,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106165A,ACU100827,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106192A,ACU100829,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106207A,ACU100830,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106223A,ACU100831,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106239A,ACU100833,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106247A,ACU100832,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Perfluorinated alkyl acids (
+ACU106255A,ACU100832,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106263A,ACU100834,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Perfluorinated alkyl acids (
+ACU106271A,ACU100834,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106287A,ACU100835,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106302A,ACU100836,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106310A,ACU100838,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Perfluorinated alkyl acids (
+ACU106318A,ACU100838,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106334A,ACU100837,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106349A,ACU100839,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106364A,ACU100840,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106380A,ACU100841,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106387A,ACU100843,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Perfluorinated alkyl acids (
+ACU106395A,ACU100843,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106411A,ACU100842,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106427A,ACU100845,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106435A,ACU100846,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Perfluorinated alkyl acids (
+ACU106443A,ACU100846,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106459A,ACU100844,"North Shore, Kauai",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,22.228,-159.398,2010,Organics
+ACU106466A,ACU100848,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Perfluorinated alkyl acids (
+ACU106474A,ACU100848,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106489A,ACU100850,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106504A,ACU100849,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106520A,ACU100852,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106536A,ACU100854,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106552A,ACU100855,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106560A,ACU100856,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Perfluorinated alkyl acids (
+ACU106568A,ACU100856,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106584A,ACU100853,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106599A,ACU100857,"Kaena Point, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.574,-158.278,2010,Organics
+ACU106615A,ACU100859,"Kaneohe MCBH, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.452,-157.764,2010,Organics
+ACU106630A,ACU100860,"Kaneohe MCBH, Oahu",Main Hawaiian Islands,Laysan albatross,Phoebastria immutabilis,21.452,-157.764,2010,Organics
+ACU117965A,ACU102301,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organotin
+ACU118080A,ACU102301,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Stable isotopes
+ACU118171A,ACU102301,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117583A,ACU102302,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117966A,ACU102302,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organotin
+ACU117584A,ACU102303,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117967A,ACU102303,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organotin
+ACU117585A,ACU102304,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117968A,ACU102304,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organotin
+ACU117586A,ACU102305,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117969A,ACU102305,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organotin
+ACU117587A,ACU102306,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117970A,ACU102306,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organotin
+ACU117588A,ACU102307,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117589A,ACU102308,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117590A,ACU102309,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Organics
+ACU117973A,ACU102309,Little Diomede Isl.,Bering Strait,Unknown murre,Uria spp.,65.753,-168.922,1999,Stable isotopes
+ACU117591A,ACU102310,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU118085A,ACU102310,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organotin
+ACU117592A,ACU102311,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU117975A,ACU102311,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organotin
+ACU117593A,ACU102312,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU117594A,ACU102313,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU118088A,ACU102313,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organotin
+ACU117595A,ACU102314,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU118089A,ACU102314,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organotin
+ACU117596A,ACU102315,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU118090A,ACU102315,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organotin
+ACU117597A,ACU102316,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU117598A,ACU102317,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU117599A,ACU102318,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU117600A,ACU102319,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,1999,Organics
+ACU118094A,ACU102320,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organotin
+ACU118175A,ACU102320,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Stable isotopes
+ACU118300A,ACU102320,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU117602A,ACU102321,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU118095A,ACU102321,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organotin
+ACU117603A,ACU102322,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU118096A,ACU102322,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organotin
+ACU117604A,ACU102323,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU118097A,ACU102323,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organotin
+ACU117605A,ACU102324,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU118098A,ACU102324,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organotin
+ACU117606A,ACU102325,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU118099A,ACU102325,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organotin
+ACU117607A,ACU102326,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU117608A,ACU102327,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU117609A,ACU102328,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU117610A,ACU102329,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU117611A,ACU102330,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.603,-169.575,1999,Organics
+ACU117612A,ACU102331,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Total mercury
+ACU118102A,ACU102331,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organotin
+ACU118287A,ACU102331,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117613A,ACU102332,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Total mercury
+ACU118103A,ACU102332,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organotin
+ACU118301A,ACU102332,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117614A,ACU102333,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Total mercury
+ACU117996A,ACU102333,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU118104A,ACU102333,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organotin
+ACU117615A,ACU102334,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Total mercury
+ACU118105A,ACU102334,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organotin
+ACU118297A,ACU102334,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117616A,ACU102335,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Metals
+ACU118106A,ACU102335,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organotin
+ACU118288A,ACU102335,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU118107A,ACU102336,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organotin
+ACU118273A,ACU102336,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117618A,ACU102337,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU118280A,ACU102337,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117619A,ACU102338,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117999A,ACU102338,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117620A,ACU102339,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU118258A,ACU102339,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117621A,ACU102340,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU118001A,ACU102340,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117622A,ACU102341,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU118002A,ACU102341,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,1999,Organics
+ACU117623A,ACU102342,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2000,Organics
+ACU118003A,ACU102342,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2000,Total mercury
+ACU117624A,ACU102343,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2000,Organics
+ACU117818A,ACU102344,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2000,Total mercury
+ACU117625A,ACU102344,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2000,Organics
+ACU117819A,ACU102345,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2000,Organics
+ACU118290A,ACU102345,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2000,Organics
+ACU118006A,ACU102346,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2000,Total mercury
+ACU118281A,ACU102346,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2000,Organics
+ACU117821A,ACU102347,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2000,Total mercury
+ACU117628A,ACU102347,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2000,Organics
+ACU117822A,ACU102348,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2000,Organics
+ACU118008A,ACU102348,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2000,Total mercury
+ACU117824A,ACU102349,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU118298A,ACU102350,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU117825A,ACU102351,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU118275A,ACU102352,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU117635A,ACU102353,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Total mercury
+ACU118264A,ACU102353,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU117636A,ACU102354,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Total mercury
+ACU118292A,ACU102354,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU117827A,ACU102355,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Total mercury
+ACU118282A,ACU102355,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU117637A,ACU102356,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Total mercury
+ACU118276A,ACU102356,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU117638A,ACU102357,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Total mercury
+ACU118283A,ACU102357,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2000,Organics
+ACU118302A,ACU102358,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU118277A,ACU102359,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU118293A,ACU102360,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU118240A,ACU102361,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU117643A,ACU102362,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Total mercury
+ACU118265A,ACU102362,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU117644A,ACU102363,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU117835A,ACU102364,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Total mercury
+ACU117645A,ACU102364,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU117836A,ACU102365,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Total mercury
+ACU117646A,ACU102365,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU117647A,ACU102366,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2000,Organics
+ACU117838A,ACU102367,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117648A,ACU102367,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117839A,ACU102368,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117649A,ACU102368,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117840A,ACU102369,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117650A,ACU102369,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117841A,ACU102370,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117651A,ACU102370,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117842A,ACU102371,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117652A,ACU102371,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117843A,ACU102372,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117653A,ACU102372,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117844A,ACU102373,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117654A,ACU102373,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117845A,ACU102374,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117655A,ACU102374,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117846A,ACU102375,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117656A,ACU102375,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117847A,ACU102376,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Total mercury
+ACU117657A,ACU102376,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2001,Organics
+ACU117848A,ACU102377,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117658A,ACU102377,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU117849A,ACU102378,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117659A,ACU102378,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU118116A,ACU102378,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,BuSn
+ACU117850A,ACU102379,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117660A,ACU102379,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU117851A,ACU102380,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117661A,ACU102380,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU117852A,ACU102381,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117662A,ACU102381,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU117853A,ACU102382,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117663A,ACU102382,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU117854A,ACU102383,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117664A,ACU102383,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU117855A,ACU102384,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117665A,ACU102384,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU117856A,ACU102385,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117666A,ACU102385,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU117857A,ACU102386,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Total mercury
+ACU117667A,ACU102386,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2001,Organics
+ACU201066A,ACU102413,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.563,-163.616,2002,Organics
+ACU201333A,ACU102415,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.563,-163.616,2002,Organics
+ACU201094A,ACU102417,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.563,-163.616,2002,Organics
+ACU201110A,ACU102418,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.563,-163.616,2002,Organics
+ACU201457A,ACU102419,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.563,-163.616,2002,Organics
+ACU201458A,ACU102419,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.563,-163.616,2002,Organics
+ACU117668A,ACU102422,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Organics
+ACU118034A,ACU102422,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Methylmercury
+ACU117669A,ACU102423,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Organics
+ACU118035A,ACU102423,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Methylmercury
+ACU117670A,ACU102424,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Organics
+ACU118036A,ACU102424,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Methylmercury
+ACU117861A,ACU102425,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Organics
+ACU118037A,ACU102425,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Methylmercury
+ACU117862A,ACU102426,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Organics
+ACU118038A,ACU102426,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Methylmercury
+ACU117863A,ACU102427,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Organics
+ACU118039A,ACU102427,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Methylmercury
+ACU117864A,ACU102429,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Methylmercury
+ACU117674A,ACU102429,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.603,-169.575,2002,Organics
+ACU117865A,ACU102432,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Methylmercury
+ACU117675A,ACU102432,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Organics
+ACU117866A,ACU102433,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Methylmercury
+ACU117676A,ACU102433,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Organics
+ACU117867A,ACU102434,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Methylmercury
+ACU117677A,ACU102434,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Organics
+ACU117868A,ACU102435,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Methylmercury
+ACU117678A,ACU102435,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Organics
+ACU117869A,ACU102436,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Methylmercury
+ACU117679A,ACU102436,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Organics
+ACU117870A,ACU102438,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Methylmercury
+ACU117680A,ACU102438,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2002,Organics
+ACU117871A,ACU102478,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Methylmercury
+ACU117681A,ACU102478,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Organics
+ACU117682A,ACU102479,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Organics
+ACU118040A,ACU102479,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Methylmercury
+ACU117683A,ACU102480,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Organics
+ACU118041A,ACU102480,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Methylmercury
+ACU117684A,ACU102481,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Organics
+ACU118042A,ACU102481,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Methylmercury
+ACU117875A,ACU102482,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Organics
+ACU118043A,ACU102482,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Methylmercury
+ACU117876A,ACU102483,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Organics
+ACU118044A,ACU102483,Cape Lisburne,Chukchi Sea,Thick-billed murre,Uria lomvia,68.882,-166.203,2002,Methylmercury
+ACU200627A,ACU102487,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.671,-170.266,2002,Organics
+ACU200646A,ACU102488,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.671,-170.266,2002,Organics
+ACU200661A,ACU102489,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.671,-170.266,2002,Organics
+ACU117877A,ACU102491,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Methylmercury
+ACU117687A,ACU102491,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Organics
+ACU117878A,ACU102492,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Methylmercury
+ACU117688A,ACU102492,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Organics
+ACU117879A,ACU102493,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Methylmercury
+ACU117689A,ACU102493,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Organics
+ACU117880A,ACU102494,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Methylmercury
+ACU117690A,ACU102494,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Organics
+ACU117881A,ACU102495,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Methylmercury
+ACU117691A,ACU102495,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Organics
+ACU117882A,ACU102496,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Methylmercury
+ACU117692A,ACU102496,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.671,-170.266,2002,Organics
+ACU200844A,ACU102572,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.66,-170.225,2003,Organics
+ACU200864A,ACU102573,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.66,-170.225,2003,Organics
+ACU200879A,ACU102578,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.66,-170.225,2003,Organics
+ACU200895A,ACU102579,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.66,-170.225,2003,Organics
+ACU200907A,ACU102581,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.66,-170.225,2003,Organics
+ACU117883A,ACU102594,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118124A,ACU102594,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117884A,ACU102595,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118125A,ACU102595,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117886A,ACU102596,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118127A,ACU102596,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117887A,ACU102597,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118128A,ACU102597,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117888A,ACU102598,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118129A,ACU102598,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117699A,ACU102599,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118130A,ACU102599,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117700A,ACU102600,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118131A,ACU102600,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117701A,ACU102601,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118132A,ACU102601,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117702A,ACU102602,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118133A,ACU102602,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
+ACU117703A,ACU102604,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU118134A,ACU102604,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117704A,ACU102607,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117893A,ACU102607,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117705A,ACU102608,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117894A,ACU102608,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117706A,ACU102610,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117895A,ACU102610,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117707A,ACU102611,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117896A,ACU102611,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117708A,ACU102613,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117897A,ACU102613,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117709A,ACU102614,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117898A,ACU102614,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117710A,ACU102615,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117899A,ACU102615,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117711A,ACU102616,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117900A,ACU102616,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117712A,ACU102617,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Organics
+ACU117901A,ACU102617,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2003,Methylmercury
+ACU117902A,ACU102618,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU118051A,ACU102618,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117903A,ACU102620,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU118052A,ACU102620,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117904A,ACU102621,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU118053A,ACU102621,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117905A,ACU102623,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU118054A,ACU102623,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117717A,ACU102626,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU117906A,ACU102626,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117718A,ACU102627,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU117907A,ACU102627,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117719A,ACU102628,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU117908A,ACU102628,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117720A,ACU102629,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU117909A,ACU102629,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117721A,ACU102631,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU117910A,ACU102631,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU117722A,ACU102632,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Organics
+ACU117911A,ACU102632,East Amatuli Isl.,Gulf of Alaska,Common murre,Uria aalge,58.916,-151.955,2003,Methylmercury
+ACU200380A,ACU102701,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2004,Organics
+ACU200399A,ACU102706,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2004,Organics
+ACU200416A,ACU102708,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2004,Organics
+ACU200435A,ACU102710,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2004,Organics
+ACU200456A,ACU102713,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2004,Organics
+ACU200223A,ACU102750,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2004,Organics
+ACU200235A,ACU102751,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2004,Organics
+ACU200253A,ACU102752,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2004,Organics
+ACU200271A,ACU102756,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2004,Organics
+ACU200281A,ACU102757,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2004,Organics
+ACU117723A,ACU102759,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Organics
+ACU117912A,ACU102759,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Methylmercury
+ACU117724A,ACU102760,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Organics
+ACU117913A,ACU102760,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Methylmercury
+ACU117725A,ACU102761,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Organics
+ACU117914A,ACU102761,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Methylmercury
+ACU117726A,ACU102762,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Organics
+ACU117915A,ACU102762,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Methylmercury
+ACU117727A,ACU102763,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Organics
+ACU117916A,ACU102763,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Methylmercury
+ACU117728A,ACU102764,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Organics
+ACU117917A,ACU102764,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Methylmercury
+ACU117729A,ACU102765,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Organics
+ACU117918A,ACU102765,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Methylmercury
+ACU117730A,ACU102766,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Organics
+ACU117919A,ACU102766,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2004,Methylmercury
+ACU201459A,ACU102767,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2004,Organics
+ACU200927A,ACU102768,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2004,Organics
+ACU200928A,ACU102768,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2004,Organics
+ACU200468A,ACU102769,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2004,Organics
+ACU200470A,ACU102769,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2004,Organics
+ACU200477A,ACU102770,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2004,Organics
+ACU200501A,ACU102771,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2004,Organics
+ACU117731A,ACU102784,Duck Isl.,Gulf of Alaska,Common murre,Uria aalge,60.148,-152.552,2004,Organics
+ACU117920A,ACU102784,Duck Isl.,Gulf of Alaska,Common murre,Uria aalge,60.148,-152.552,2004,Methylmercury
+ACU117732A,ACU102785,Duck Isl.,Gulf of Alaska,Common murre,Uria aalge,60.148,-152.552,2004,Organics
+ACU117921A,ACU102785,Duck Isl.,Gulf of Alaska,Common murre,Uria aalge,60.148,-152.552,2004,Methylmercury
+ACU117733A,ACU102786,Duck Isl.,Gulf of Alaska,Common murre,Uria aalge,60.148,-152.552,2004,Organics
+ACU117922A,ACU102786,Duck Isl.,Gulf of Alaska,Common murre,Uria aalge,60.148,-152.552,2004,Methylmercury
+ACU117734A,ACU102787,Duck Isl.,Gulf of Alaska,Common murre,Uria aalge,60.148,-152.552,2004,Organics
+ACU117923A,ACU102787,Duck Isl.,Gulf of Alaska,Common murre,Uria aalge,60.148,-152.552,2004,Methylmercury
+ACU117735A,ACU102788,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Organics
+ACU117924A,ACU102788,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Methylmercury
+ACU117736A,ACU102789,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Organics
+ACU117925A,ACU102789,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Methylmercury
+ACU117737A,ACU102790,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Organics
+ACU117926A,ACU102790,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Methylmercury
+ACU117738A,ACU102791,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Organics
+ACU117927A,ACU102791,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Methylmercury
+ACU117739A,ACU102792,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Organics
+ACU117928A,ACU102792,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Methylmercury
+ACU117740A,ACU102793,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Organics
+ACU117929A,ACU102793,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Methylmercury
+ACU117741A,ACU102794,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Organics
+ACU117930A,ACU102794,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Methylmercury
+ACU117742A,ACU102795,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Organics
+ACU117931A,ACU102795,Middleton Isl.,Gulf of Alaska,Common murre,Uria aalge,59.434,-146.318,2004,Methylmercury
+ACU117743A,ACU102799,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Organics
+ACU117932A,ACU102799,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Methylmercury
+ACU117744A,ACU102800,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Organics
+ACU117933A,ACU102800,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Methylmercury
+ACU117745A,ACU102801,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Organics
+ACU117934A,ACU102801,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Methylmercury
+ACU117746A,ACU102802,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Organics
+ACU117935A,ACU102802,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Methylmercury
+ACU117747A,ACU102803,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Organics
+ACU117936A,ACU102803,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Methylmercury
+ACU117748A,ACU102804,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Organics
+ACU117937A,ACU102804,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Methylmercury
+ACU117749A,ACU102805,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Organics
+ACU117938A,ACU102805,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Methylmercury
+ACU117750A,ACU102807,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Organics
+ACU117939A,ACU102807,Gull Isl.,Gulf of Alaska,Common murre,Uria aalge,59.585,-151.328,2004,Methylmercury
+ACU118135A,ACU102869,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organotin
+ACU118182A,ACU102869,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Total mercury
+ACU118136A,ACU102870,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organotin
+ACU118183A,ACU102870,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organics
+ACU118213A,ACU102870,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Total mercury
+ACU118137A,ACU102871,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organotin
+ACU118214A,ACU102871,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Total mercury
+ACU118138A,ACU102872,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organotin
+ACU118185A,ACU102872,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organics
+ACU118215A,ACU102872,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Total mercury
+ACU118139A,ACU102873,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organotin
+ACU118186A,ACU102873,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organics
+ACU118216A,ACU102873,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Total mercury
+ACU118140A,ACU102874,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Organotin
+ACU118187A,ACU102874,Shaiak Isl.,Bering Sea,Glaucous-winged gull,Larus glaucescens,58.559,-161.666,2005,Total mercury
+ACU118141A,ACU102904,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Unknown
+ACU118188A,ACU102904,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Organics
+ACU118217A,ACU102904,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Total mercury
+ACU118142A,ACU102905,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Organotin
+ACU118189A,ACU102905,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Total mercury
+ACU118143A,ACU102906,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Organotin
+ACU118190A,ACU102906,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Total mercury
+ACU118144A,ACU102907,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Organotin
+ACU118191A,ACU102907,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Organics
+ACU118218A,ACU102907,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Total mercury
+ACU118145A,ACU102908,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Organotin
+ACU118146A,ACU102909,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Organotin
+ACU118193A,ACU102909,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Organics
+ACU118219A,ACU102909,Noatak River Delta,Chukchi Sea,Glaucous gull,Larus hyperboreus,66.996,-162.483,2005,Total mercury
+ACU118147A,ACU102910,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Unknown
+ACU118194A,ACU102910,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Organics
+ACU118220A,ACU102910,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Total mercury
+ACU118148A,ACU102911,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Organotin
+ACU118149A,ACU102912,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Organotin
+ACU118196A,ACU102912,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Organics
+ACU118221A,ACU102912,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Total mercury
+ACU118150A,ACU102913,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Organotin
+ACU118197A,ACU102913,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Total mercury
+ACU118151A,ACU102914,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Organotin
+ACU118198A,ACU102914,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Total mercury
+ACU118152A,ACU102915,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Organotin
+ACU118199A,ACU102915,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Organics
+ACU118222A,ACU102915,Hooper Bay,Bering Sea,Glaucous gull,Larus hyperboreus,61.461,-165.945,2005,Total mercury
+ACU118153A,ACU102934,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Unknown
+ACU118200A,ACU102934,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Organics
+ACU118223A,ACU102934,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Total mercury
+ACU118154A,ACU102935,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Organotin
+ACU118201A,ACU102935,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Organics
+ACU118224A,ACU102935,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Total mercury
+ACU118155A,ACU102936,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Organotin
+ACU118202A,ACU102936,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Total mercury
+ACU118156A,ACU102937,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Organotin
+ACU118203A,ACU102937,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Organics
+ACU118225A,ACU102937,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Total mercury
+ACU118157A,ACU102938,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Organotin
+ACU118204A,ACU102938,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Total mercury
+ACU118158A,ACU102939,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Organotin
+ACU118205A,ACU102939,Sitka,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,56.87,-135.418,2005,Total mercury
+ACU118241A,ACU102948,Ualik Lake,Bering Sea,Glaucous-winged gull,Larus glaucescens,59.109,-159.436,2005,Organics
+ACU118247A,ACU102948,Ualik Lake,Bering Sea,Glaucous-winged gull,Larus glaucescens,59.109,-159.436,2005,Total mercury
+ACU118237A,ACU102951,Ualik Lake,Bering Sea,Glaucous-winged gull,Larus glaucescens,59.109,-159.436,2005,Organics
+ACU118242A,ACU102951,Ualik Lake,Bering Sea,Glaucous-winged gull,Larus glaucescens,59.109,-159.436,2005,Total mercury
+ACU118250A,ACU102954,Ualik Lake,Bering Sea,Glaucous-winged gull,Larus glaucescens,59.109,-159.436,2005,Organics
+ACU118259A,ACU102954,Ualik Lake,Bering Sea,Glaucous-winged gull,Larus glaucescens,59.109,-159.436,2005,Total mercury
+ACU118206A,ACU102957,Middleton Isl.,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,59.434,-146.318,2005,Organics
+ACU118227A,ACU102957,Middleton Isl.,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,59.434,-146.318,2005,Total mercury
+ACU118238A,ACU102959,Middleton Isl.,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,59.434,-146.318,2005,Organics
+ACU118244A,ACU102959,Middleton Isl.,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,59.434,-146.318,2005,Total mercury
+ACU118254A,ACU102962,Middleton Isl.,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,59.434,-146.318,2005,Organics
+ACU118260A,ACU102962,Middleton Isl.,Gulf of Alaska,Glaucous-winged gull,Larus glaucescens,59.434,-146.318,2005,Total mercury
+ACU118255A,ACU102963,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2005,Organics
+ACU118261A,ACU102963,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2005,Total mercury
+ACU118239A,ACU102966,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2005,Organics
+ACU118245A,ACU102966,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2005,Total mercury
+ACU118228A,ACU102967,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2005,Total mercury
+ACU118246A,ACU102967,Nome,Bering Strait,Glaucous gull,Larus hyperboreus,64.592,-166.243,2005,Organics
+ACU117751A,ACU102969,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Organics
+ACU117940A,ACU102969,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Total mercury
+ACU117752A,ACU102970,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Organics
+ACU117941A,ACU102970,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Total mercury
+ACU117753A,ACU102971,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Organics
+ACU117942A,ACU102971,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Total mercury
+ACU117943A,ACU102974,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Organics
+ACU118058A,ACU102974,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Total mercury
+ACU117754A,ACU102976,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Organics
+ACU117944A,ACU102976,Cape Denbigh,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.506,-161.466,2005,Total mercury
+ACU117755A,ACU103041,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Organics
+ACU117945A,ACU103041,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Total mercury
+ACU117756A,ACU103049,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Organics
+ACU117946A,ACU103049,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Total mercury
+ACU117757A,ACU103050,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Organics
+ACU117947A,ACU103050,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Total mercury
+ACU117758A,ACU103051,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Organics
+ACU117948A,ACU103051,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Total mercury
+ACU117759A,ACU103053,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Organics
+ACU117949A,ACU103053,Cape Pierce,Bering Sea,Common murre,Uria aalge,58.557,-161.769,2005,Total mercury
+ACU117760A,ACU103054,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Organics
+ACU117950A,ACU103054,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Total mercury
+ACU117761A,ACU103057,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Organics
+ACU117951A,ACU103057,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Total mercury
+ACU117762A,ACU103060,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Organics
+ACU117952A,ACU103060,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Total mercury
+ACU117763A,ACU103061,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Organics
+ACU117953A,ACU103061,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Total mercury
+ACU117764A,ACU103064,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Organics
+ACU117954A,ACU103064,Sledge Isl.,Bering Strait,Common murre,Uria aalge,64.485,-166.213,2005,Total mercury
+ACU117765A,ACU103070,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Organics
+ACU117955A,ACU103070,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Total mercury
+ACU117766A,ACU103073,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Organics
+ACU117956A,ACU103073,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Total mercury
+ACU117767A,ACU103075,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Organics
+ACU117957A,ACU103075,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Total mercury
+ACU117768A,ACU103076,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Organics
+ACU117958A,ACU103076,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Total mercury
+ACU117769A,ACU103137,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Organics
+ACU117959A,ACU103137,Bluff Isl.,"Bering Sea, Norton Sound",Common murre,Uria aalge,64.567,-163.733,2005,Total mercury
+ACU200549A,ACU103138,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2005,Organics
+ACU200573A,ACU103141,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2005,Organics
+ACU200588A,ACU103142,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2005,Organics
+ACU200609A,ACU103144,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2005,Organics
+ACU200620A,ACU103145,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2005,Organics
+ACU200625A,ACU103145,St. George Isl.,Bering Sea,Thick-billed murre,Uria lomvia,56.601,-169.504,2005,Organics
+ACU117770A,ACU103154,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Organics
+ACU117960A,ACU103154,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Total mercury
+ACU117771A,ACU103155,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Organics
+ACU117961A,ACU103155,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Total mercury
+ACU117772A,ACU103158,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Organics
+ACU117962A,ACU103158,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Total mercury
+ACU117773A,ACU103161,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Organics
+ACU117963A,ACU103161,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Total mercury
+ACU117774A,ACU103163,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Organics
+ACU117964A,ACU103163,Bogoslof Isl.,Aleutian Islands,Common murre,Uria aalge,53.936,-168.039,2005,Total mercury
+ACU200511A,ACU103275,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2006,Organics
+ACU200518A,ACU103275,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2006,Organics
+ACU200678A,ACU103277,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2006,Organics
+ACU200695A,ACU103278,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2006,Organics
+ACU200711A,ACU103279,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2006,Organics
+ACU200945A,ACU103280,St. Lazaria Isl.,Gulf of Alaska,Thick-billed murre,Uria lomvia,56.986,-135.713,2006,Organics
+ACU200299A,ACU103289,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2006,Organics
+ACU200315A,ACU103290,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2006,Organics
+ACU200331A,ACU103291,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2006,Organics
+ACU200347A,ACU103292,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2006,Organics
+ACU200362A,ACU103297,Buldir Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,52.353,-175.958,2006,Organics
+ACU200962A,ACU103302,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2006,Organics
+ACU135295A,ACU103306,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2006,Organics
+ACU135298A,ACU103307,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2006,Organics
+ACU135379A,ACU103309,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2006,Organics
+ACU135307A,ACU103310,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2006,Organics
+ACU200761A,ACU103361,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.575,-170.891,2006,Organics
+ACU200776A,ACU103364,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.575,-170.891,2006,Organics
+ACU200793A,ACU103375,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.575,-170.891,2006,Organics
+ACU200808A,ACU103376,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.575,-170.891,2006,Organics
+ACU200826A,ACU103377,St. Lawrence Isl.,Bering Sea,Thick-billed murre,Uria lomvia,63.575,-170.891,2006,Organics
+ACU135297A,ACU103379,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.575,-170.891,2006,Organics
+ACU135306A,ACU103384,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.575,-170.891,2006,Organics
+ACU135309A,ACU103385,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.575,-170.891,2006,Organics
+ACU200728A,ACU103388,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.575,-170.891,2006,Organics
+ACU200743A,ACU103392,St. Lawrence Isl.,Bering Sea,Common murre,Uria aalge,63.575,-170.891,2006,Organics
+ACU133948A,ACU103419,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2006,Organics
+ACU201478A,ACU103422,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2006,Organics
+ACU200531A,ACU103425,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2006,Organics
+ACU135305A,ACU103426,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2006,Organics
+ACU135308A,ACU103428,St. George Isl.,Bering Sea,Common murre,Uria aalge,56.604,-169.771,2006,Organics
+ACU117823A,ACU103524,Bogoslof Isl.,Aleutian Islands,Thick-billed murre,Uria lomvia,53.936,-168.039,2001,Organics
+ACU117885A,ACU105458,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Organics
+ACU118126A,ACU105458,St. Lazaria Isl.,Gulf of Alaska,Common murre,Uria aalge,56.986,-135.713,2003,Methylmercury
