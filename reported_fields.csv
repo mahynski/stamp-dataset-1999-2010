@@ -3,7 +3,7 @@ GUALIQUOTID,character,Unique identifier for a given aliquot.
 TYPE_OF_ANALYSIS,character,A brief textual description of the analytical test being performed on an aliquot.
 GUSAMPLEID,character,An identifier assigned by FreezerWorks combining the three character installation code and the [Freezerworks ID] to create a cross-instance unique identifier for a given sample.
 COLONY_NAME,character,The location of a recognized colony from which a sample was collected.
-GEOGRAPHIC_AREA_STAMP,character,Geographical area a sample was collected from.
+GEOGRAPHIC_AREA_STAMP,character,Generalized geographic area associated with a colony's location used for grouping nearby colonies.
 COMMON_NAME,character,Common term name for a species.
 LATITUDE,numeric,Geographical position system coordinates for latitude (various formats)
 LONGITUDE,numeric,Geographical position system coordinates for longitude (various formats)
