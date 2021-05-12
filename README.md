@@ -31,7 +31,7 @@ This data can be easily read, for example, with [pandas](https://pandas.pydata.o
 
 * stamp_chemistry.csv : CSV file with the results of chemical tests on different aliquots.
 * stamp_samples.csv : CSV file with the metadata and other information pertaining to each sample.
-* data_dictionary.csv : CSV file containing the units and other information about data.
+* reported_fields.csv : CSV file containing the units and other metadata about the measurements.
 * X.csv : CSV file with the processed chemical information that should be used for analysis.
 * y.csv : CSV file with the target properties of each sample, corresponding to X.csv.
 
