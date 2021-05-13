@@ -6,9 +6,12 @@ Any mention of commercial products is for information only; it does not imply re
 
 ## Installation
 
+The procedure below uses [conda](https://conda.io/projects/conda/en/latest/index.html) to install package dependencies, which we recommend doing in a separate virtual environment, assumed below to be called "myenv". The python packages in requirements.txt can be installed via other methods as well.
+
 ~~~ bash
-$ git clone XXXXX
-$ pip install -r requirements.txt
+$ git clone https://github.com/mahynski/stamp-dataset-1999-2010
+$ conda activate myenv
+$ conda install --file requirements.txt
 ~~~
 
 ## Usage
