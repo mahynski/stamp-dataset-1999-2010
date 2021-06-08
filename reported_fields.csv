@@ -5,6 +5,7 @@ GUSAMPLEID,character,"An identifier assigned by the sample database combining th
 COLONY_NAME,character,"The location of a recognized colony from which a sample was collected."
 GEOGRAPHIC_AREA_STAMP,character,"Generalized geographic area associated with a colony's location used for grouping nearby colonies."
 COMMON_NAME,character,"Common term name for a species."
+SPECIES,character,"The scientific name of a specimen in binomial nomenclature."
 LATITUDE,numeric,"Geographical position system coordinates for latitude (various formats)."
 LONGITUDE,numeric,"Geographical position system coordinates for longitude (various formats)."
 COLLECTION_YEAR,numeric,"A convenience identifier of the year a sample was collected in [%Y] format."
