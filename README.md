@@ -10,6 +10,7 @@ The procedure below uses [conda](https://conda.io/projects/conda/en/latest/index
 
 ~~~ bash
 $ git clone https://github.com/mahynski/stamp-dataset-1999-2010
+$ cd stamp-dataset-1999-2010
 $ conda activate myenv
 $ conda install --file requirements.txt
 ~~~
