@@ -17,9 +17,9 @@ $ conda install --file requirements.txt
 
 ## Usage
 
-You can recreate plots found in [1] using the visualize_stamp.ipynb [Jupyter](https://jupyter.org/) notebook.  The required libraries are included in the requirements.txt and should be installed in the above step.
+You can recreate plots found in Ref. [1] using the visualize_stamp.ipynb [Jupyter](https://jupyter.org/) notebook.  The required libraries are included in the requirements.txt and should be installed in the above step.
 
-Otherwise, the included X.csv and y.csv contain the processed chemometric information described in [1].  The raw data is available in the stamp_chemistry.csv and stamp_samples.csv files.
+Otherwise, the included X.csv and y.csv contain the processed chemometric information described in Ref. [1].  The raw data is available in the stamp_chemistry.csv and stamp_samples.csv files.
 
 ## Example
 
@@ -34,9 +34,9 @@ This data can be easily read, for example, with [pandas](https://pandas.pydata.o
 ## File descriptions
 
 * appendix.xlsx : Microsoft Excel file with details on analysis methods.
+* reported_fields.csv : CSV file containing the units and other metadata about the measurements.
 * stamp_chemistry.csv : CSV file with the results of chemical tests on different aliquots.
 * stamp_samples.csv : CSV file with the metadata and other information pertaining to each sample.
-* reported_fields.csv : CSV file containing the units and other metadata about the measurements.
 * X.csv : CSV file with the processed chemical information that should be used for analysis.
 * y.csv : CSV file with the target properties of each sample, corresponding to X.csv.
 
