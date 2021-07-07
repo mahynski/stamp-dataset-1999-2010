@@ -33,6 +33,7 @@ This data can be easily read, for example, with [pandas](https://pandas.pydata.o
 
 ## File descriptions
 
+* appendix.xlsx : Microsoft Excel file with details on analysis methods.
 * stamp_chemistry.csv : CSV file with the results of chemical tests on different aliquots.
 * stamp_samples.csv : CSV file with the metadata and other information pertaining to each sample.
 * reported_fields.csv : CSV file containing the units and other metadata about the measurements.
