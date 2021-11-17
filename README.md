@@ -19,7 +19,7 @@ $ conda install --file requirements.txt
 
 You can recreate plots found in Ref. [1] using the visualize_stamp.ipynb [Jupyter](https://jupyter.org/) notebook.  The required libraries are included in the requirements.txt and should be installed in the above step.
 
-Otherwise, the included X.csv and y.csv contain the processed chemometric information described in Ref. [1].  The raw data is available at [https://datapub.nist.gov/od/id/mds2-2431](https://datapub.nist.gov/od/id/mds2-2431).
+Otherwise, the included X.csv and y.csv contain the processed chemometric information described in Ref. [1].  The raw data is available at [https://doi.org/10.18434/mds2-2431](https://doi.org/10.18434/mds2-2431).
 
 ## Example
 
