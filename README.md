@@ -19,7 +19,7 @@ $ conda install --file requirements.txt
 
 You can recreate plots found in Ref. [1] using the visualize_stamp.ipynb [Jupyter](https://jupyter.org/) notebook.  The required libraries are included in the requirements.txt and should be installed in the above step.
 
-Otherwise, the included X.csv and y.csv contain the processed chemometric information described in Ref. [1].  The raw data is available at [https://doi.org/10.18434/mds2-2431](https://doi.org/10.18434/mds2-2431).
+Otherwise, the included X.csv and y.csv contain the processed chemometric information described in Ref. [1].  The raw data is available at [https://dx.doi.org/10.18434/mds2-2431](https://dx.doi.org/10.18434/mds2-2431).
 
 ## Example
 
@@ -38,4 +38,4 @@ This data can be easily read, for example, with [pandas](https://pandas.pydata.o
 
 ## References
 
-[1] Mahynski NA, Ragland JM, Schuur SS, Pugh R, Shen VK, "Seabird Tissue Archival and Monitoring Project (STAMP) Data from 1999-2010," Journal of Research of the National Institute of Standards and Technology, Volume 126, Article No. 126028, https://doi.org/10.6028/jres.126.028
+[1] Mahynski NA, Ragland JM, Schuur SS, Pugh R, Shen VK, "Seabird Tissue Archival and Monitoring Project (STAMP) Data from 1999-2010," Journal of Research of the National Institute of Standards and Technology, Volume 126, Article No. 126028, https://dx.doi.org/10.6028/jres.126.028
