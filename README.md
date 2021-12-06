@@ -38,4 +38,4 @@ This data can be easily read, for example, with [pandas](https://pandas.pydata.o
 
 ## References
 
-[1] Mahynski NA, Ragland JM, Schuur SS, Pugh R, Shen VK, "Seabird Tissue Archival and Monitoring Project (STAMP) Data from 1999-2010," Journal of Research of National Institute of Standards and Technology, XXX, doi: XXX
+[1] Mahynski NA, Ragland JM, Schuur SS, Pugh R, Shen VK, "Seabird Tissue Archival and Monitoring Project (STAMP) Data from 1999-2010," Journal of Research of the National Institute of Standards and Technology, Volume 126, Article No. 126028, https://doi.org/10.6028/jres.126.028
